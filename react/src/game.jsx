@@ -104,4 +104,4 @@ var Game = React.createClass({
 })
 
 
-module.exports = Game
+module.exports = <Game />

@@ -1,8 +1,8 @@
 /** @jsx React.DOM */
 'use strict'
 
-var React = require('react/addons')
-var DocumentTitle = require('react-document-title')
+var React = require('react/addons');
+var DocumentTitle = require('react-document-title');
 
 var Home = React.createClass({
 
@@ -12,4 +12,4 @@ var Home = React.createClass({
 
 })
 
-module.exports = Home
+module.exports = <Home />

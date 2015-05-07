@@ -79,4 +79,4 @@ var SearchResults = React.createClass({
 })
 
 
-module.exports = SearchResults
+module.exports = < SearchResults/>

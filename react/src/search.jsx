@@ -103,4 +103,4 @@ var Search = React.createClass({
 })
 
 
-module.exports = Search
+module.exports = <Search />
